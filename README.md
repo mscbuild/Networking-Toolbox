@@ -1,6 +1,14 @@
 <p align="center" dir="auto">
- Networking-Toolbox 
+ Networking-Toolbox
  
+ ![](https://komarev.com/ghpvc/?username=mscbuild) 
+ ![](https://img.shields.io/github/license/mscbuild/Networking-Toolbox) 
+ ![](https://img.shields.io/github/repo-size/mscbuild/Networking-Toolbox)
+![](https://img.shields.io/badge/PRs-Welcome-green)
+![](https://img.shields.io/badge/code%20style-admin-green)
+![](https://img.shields.io/github/stars/mscbuild)
+![](https://img.shields.io/badge/Topic-Github-lighred)
+![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
 
 <p align="center" dir="auto">
   <i>Networking Toolbox is a collection of free, open-source networking utilities designed to simplify common network-related tasks for system administrators and network engineers.</i><br>
