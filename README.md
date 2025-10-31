@@ -1,6 +1,4 @@
-<p align="center" dir="auto">
-  
-## Networking-Toolbox 
+ ## Networking-Toolbox 
 
 <p align="center" dir="auto">
   <i>The all-in-one offline-first networking toolbox for sysadmins</i><br>
