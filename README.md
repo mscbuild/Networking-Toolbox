@@ -1,4 +1,12 @@
-<h1>Networking-Toolbox </h1>
+<style>
+  .center-text {
+    text-align: center;
+  }
+</style>
+
+<div class="center-text">
+  <h1>Networking-Toolbox</h1>
+</div>
 
 <p align="center" dir="auto">
   <i>The all-in-one offline-first networking toolbox for sysadmins</i><br>
