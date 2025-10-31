@@ -1,10 +1,4 @@
-<style>
-  .center-text {
-    text-align: center;
-  }
-</style>
-
-<div class="center-text">
+ <div class="center-text">
   <h1>Networking-Toolbox</h1>
 </div>
 
