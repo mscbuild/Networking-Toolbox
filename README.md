@@ -3,7 +3,7 @@
  
 
 <p align="center" dir="auto">
-  <i>The all-in-one offline-first networking toolbox for sysadmins</i><br>
+  <i>Networking Toolbox is a collection of free, open-source networking utilities designed to simplify common network-related tasks for system administrators and network engineers.</i><br>
   🌐 <b><a href="https://networking-toolbox.as93.net" rel="nofollow">networking-toolbox.as93.net</a></b>
 </p>
 <a href="https://networking-toolbox.as93.net" rel="nofollow">
