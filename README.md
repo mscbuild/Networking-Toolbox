@@ -1,6 +1,6 @@
- <div class="center-text">
+<center>
   <h1>Networking-Toolbox</h1>
-</div>
+</center>
 
 <p align="center" dir="auto">
   <i>The all-in-one offline-first networking toolbox for sysadmins</i><br>
