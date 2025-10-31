@@ -1,5 +1,5 @@
 <p align="center" dir="auto">
-<h3>Networking-Toolbox</h3>
+<p>Networking-Toolbox<p>
 
 <p align="center" dir="auto">
   <i>The all-in-one offline-first networking toolbox for sysadmins</i><br>
