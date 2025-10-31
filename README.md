@@ -5,7 +5,7 @@
  ![](https://img.shields.io/github/license/mscbuild/Networking-Toolbox) 
  ![](https://img.shields.io/github/repo-size/mscbuild/Networking-Toolbox)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
-![](https://img.shields.io/badge/code%20style-admin-green)
+![](https://img.shields.io/badge/code%20style-text-green)
 ![](https://img.shields.io/github/stars/mscbuild)
 ![](https://img.shields.io/badge/Topic-Github-lighred)
 ![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
